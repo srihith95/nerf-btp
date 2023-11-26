@@ -1,2 +1,2 @@
-# nerf-btp
-# nerf-init scripts
+# NeRF-BTP Necessary Scripts
+### nerf-init scripts
