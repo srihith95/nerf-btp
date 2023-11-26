@@ -1,2 +1,2 @@
-# NeRFStudio Necessary Scripts
+# NeRFStudio-Necessary Scripts
 ### nerf-init 
